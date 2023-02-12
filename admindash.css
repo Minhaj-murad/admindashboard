@@ -382,9 +382,15 @@
 }
 
 #admindash-user-name {
+
     color: #FFFFFF;
 }
 
+.admindash-user-name1{
+    color: black;
+    font-size: 18px;
+    font-weight: 600;
+}
 
 
 a {
